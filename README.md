@@ -15,7 +15,8 @@ by Ranga Karanam (in28minutes) on Udemy.
 |   Step  |                           Topic                             |
 |---------|-------------------------------------------------------------|
 | Step 01 | Created Spring Boot Web Application using Spring Initializr |
+| Step 03 | First Spring MVC Controller, @ResponseBody, @Controller     |
  
 ## Connect
-- LinkedIn: linkedin.com/in/-ayush-goyal
+- LinkedIn: https://linkedin.com/in/-ayush-goyal
 - Email: ayushgoyal027@gmail.com
