@@ -12,10 +12,11 @@ by Ranga Karanam (in28minutes) on Udemy.
 - Maven
  
 ## Course Progress
-|   Step  |                           Topic                             |
-|---------|-------------------------------------------------------------|
-| Step 01 | Created Spring Boot Web Application using Spring Initializr |
-| Step 03 | First Spring MVC Controller, @ResponseBody, @Controller     |
+|   Step  |                            Topic                              |
+|---------|-------------------------------------------------------------  |
+| Step 01 | Created Spring Boot Web Application using Spring Initializr   |
+| Step 03 | First Spring MVC Controller, @ResponseBody, @Controller       |
+| Step 04 | 01 - Enhancing Spring MVC Controller to provide HTML response |
  
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
