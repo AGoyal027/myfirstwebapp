@@ -21,7 +21,8 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 06 |          Creating LoginController and login view              |
 | Step 08 | Capturing QueryParams using RequestParam & First Look at Model|
 | Step 09 |         Importance of Logging with Spring Boot                |
-| Step 11 |                     Creating a Login Form                     | 
+| Step 11 |                     Creating a Login Form                     |
+| Step 12 |       Displaying Login Credentials in a JSP using Model       |
  
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal

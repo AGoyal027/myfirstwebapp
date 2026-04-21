@@ -4,7 +4,7 @@
     	<title>Login Page</title>
 	</head>
 	<body>
-    	Welcome to login page ${name}!
+    	Welcome to login page!
     	<form method="post">
     		<label>Name:</label>
     		<input type="text" name="name">
