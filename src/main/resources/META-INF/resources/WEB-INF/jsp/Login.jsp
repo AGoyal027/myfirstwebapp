@@ -5,6 +5,7 @@
 	</head>
 	<body>
     	Welcome to login page!
+    	<pre>${errorMessage}</pre>
     	<form method="post">
     		<label>Name:</label>
     		<input type="text" name="name">
