@@ -25,6 +25,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 12 | Displaying Login Credentials in a JSP using Model                  |
 | Step 13 | Add hard coded validation of userid and password                   |
 | Step 14 | Getting started with Todo Features - Creating Todo and TodoService |
+| Step 15 | Creating first version of List Todos Page                          |
  
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
