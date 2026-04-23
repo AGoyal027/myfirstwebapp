@@ -26,6 +26,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 13 | Add hard coded validation of userid and password                   |
 | Step 14 | Getting started with Todo Features - Creating Todo and TodoService |
 | Step 15 | Creating first version of List Todos Page                          |
+| Step 16 | Understanding Session vs Model vs Request - @SessionAttributes     |
  
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
