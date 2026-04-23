@@ -4,14 +4,16 @@
     	<title>Login Page</title>
 	</head>
 	<body>
-    	Welcome to login page!
-    	<pre>${errorMessage}</pre>
-    	<form method="post">
-    		<label>Name:</label>
-    		<input type="text" name="name">
-    		<label>Password:</label>
-    		<input type="password" name="password">
-    		<button>Submit</button>
-    	</form>
+		<div class="container">
+	    	<h1>Login</h1>
+	    	<pre>${errorMessage}</pre>
+	    	<form method="post">
+	    		<label>Name:</label>
+	    		<input type="text" name="name">
+	    		<label>Password:</label>
+	    		<input type="password" name="password">
+	    		<button>Submit</button>
+	    	</form>
+    	</div>
 	</body>
 </html>
