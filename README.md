@@ -31,6 +31,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 18 | Adding Bootstrap CSS framework to Spring Boot Project using webjars   |
 | Step 19 | Formatting JSP pages with Bootstrap CSS framework                     |
 | Step 20 | Lets Add a New Todo - Create a new View                               |
+| Step 21 | Enhancing TodoService to add the todo                                 |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
