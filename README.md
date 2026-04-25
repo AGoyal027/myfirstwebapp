@@ -10,6 +10,11 @@ by Ranga Karanam (in28minutes) on Udemy.
 - Spring Boot
 - Spring MVC
 - Maven
+- HTML
+- CSS
+- Bootstrap
+- JSP
+- JSTL
  
 ## Course Progress
 |   Step  |                              Topic                                    |
@@ -32,6 +37,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 19 | Formatting JSP pages with Bootstrap CSS framework                     |
 | Step 20 | Lets Add a New Todo - Create a new View                               |
 | Step 21 | Enhancing TodoService to add the todo                                 |
+| Step 22 | Adding Validations using Spring Boot Starter Validation               |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
