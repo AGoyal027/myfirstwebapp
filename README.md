@@ -39,6 +39,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 21 | Enhancing TodoService to add the todo                               |
 | Step 22 | Adding Validations using Spring Boot Starter Validation             |
 | Step 23 | Using Command Beans to implement New Todo Page Validations          |
+| Step 24 | Implementing Delete Todo Feature - New View                         |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
