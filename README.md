@@ -43,6 +43,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 25 | Implementing Update Todo - 1 - Show Update Todo Page                |
 | Step 26 | Implementing Update Todo - 1 - Save changes to Todo                 |
 | Step 27 | Adding Target Date Field to Todo Page                               |
+| Step 28 | Adding a Navigation Bar and Implementing JSP Fragments              |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
