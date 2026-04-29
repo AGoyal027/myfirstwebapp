@@ -44,6 +44,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 26 | Implementing Update Todo - 1 - Save changes to Todo                 |
 | Step 27 | Adding Target Date Field to Todo Page                               |
 | Step 28 | Adding a Navigation Bar and Implementing JSP Fragments              |
+| Step 30 | Setting up Spring Security with Spring Boot Starter Security        |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
