@@ -48,9 +48,10 @@ by Ranga Karanam (in28minutes) on Udemy.
 
 
 ## Functional Programming
-|   Step  |                              Topic                                  |
-|---------|---------------------------------------------------------------------|
-| Step 01 | Getting Started with Functional Programming with Java               |
+|   Step  |                         Topic                            |
+|---------|----------------------------------------------------------|
+| Step 01 | Getting Started with Functional Programming with Java    |
+| Step 02 | Writing Your First Java Functional Program               |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
