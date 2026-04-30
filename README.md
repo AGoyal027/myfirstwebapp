@@ -46,6 +46,12 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 28 | Adding a Navigation Bar and Implementing JSP Fragments              |
 | Step 30 | Setting up Spring Security with Spring Boot Starter Security        |
 
+
+## Functional Programming
+|   Step  |                              Topic                                  |
+|---------|---------------------------------------------------------------------|
+| Step 01 | Getting Started with Functional Programming with Java               |
+
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
 - Email: ayushgoyal027@gmail.com
