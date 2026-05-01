@@ -55,6 +55,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 03 | Improving Java Functional Program with filter                      |
 | Step 04 | Using Lambda Expression to enhance Functional Program              |
 | Step 05 | Functional Programming Exercises with Streams, Filters and Lambdas |
+| Step 06 | Using map in Functional Programs - with Exercises                  |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal

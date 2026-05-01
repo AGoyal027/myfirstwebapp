@@ -8,7 +8,8 @@ public class Functional {
 
 		List<Integer> numbers = List.of(22, 28, 93, 48, 2, 22, 48, 9, 3);
 		// printAllNumbersInListFunctional(numbers);
-		printEvenNumbersInListFunctional(numbers);
+		//printEvenNumbersInListFunctional(numbers);
+		printSquareOfEvenNumbersInListFunctional(numbers);
 	}
 
 	//private static boolean isEven(int number) { return number % 2 == 0; }
@@ -29,11 +30,19 @@ public class Functional {
 
 	private static void printEvenNumbersInListFunctional(List<Integer> numbers) {
 
-		numbers.stream()
+		numbers.stream() //Convert to stream
 			.filter(number -> number%2 == 0) // Lambda Expression
 			.forEach(System.out::println); // Method Reference
 		
 		//.filter(Functional::isEven) // Filter - Only Allow Even Numbers
+	}
+	
+	private static void printSquareOfEvenNumbersInListFunctional(List<Integer> numbers) {
+
+		numbers.stream()
+			.filter(number -> number%2 == 0)
+			.map(n -> n * n)// Mapper Lambda Expression
+			.forEach(System.out::println);
 	}
 
 }
