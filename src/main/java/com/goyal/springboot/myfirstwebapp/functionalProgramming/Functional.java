@@ -11,9 +11,7 @@ public class Functional {
 		printEvenNumbersInListFunctional(numbers);
 	}
 
-	private static boolean isEven(int number) {
-		return number % 2 == 0;
-	}
+	//private static boolean isEven(int number) { return number % 2 == 0; }
 
 	//private static void print(int number) { System.out.println(number); }
 	
@@ -31,8 +29,11 @@ public class Functional {
 
 	private static void printEvenNumbersInListFunctional(List<Integer> numbers) {
 
-		numbers.stream().filter(Functional::isEven) // Filter - Only Allow Even Numbers
-				.forEach(System.out::println); // Method Reference
+		numbers.stream()
+			.filter(number -> number%2 == 0)
+			.forEach(System.out::println); // Method Reference
+		
+		//.filter(Functional::isEven) // Filter - Only Allow Even Numbers
 	}
 
 }

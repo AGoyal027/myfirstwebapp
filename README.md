@@ -48,11 +48,12 @@ by Ranga Karanam (in28minutes) on Udemy.
 
 
 ## Functional Programming
-|   Step  |                         Topic                            |
-|---------|----------------------------------------------------------|
-| Step 01 | Getting Started with Functional Programming with Java    |
-| Step 02 | Writing Your First Java Functional Program               |
-| Step 03 | Improving Java Functional Program with filter            |
+|   Step  |                          Topic                             |
+|---------|------------------------------------------------------------|
+| Step 01 | Getting Started with Functional Programming with Java      |
+| Step 02 | Writing Your First Java Functional Program                 |
+| Step 03 | Improving Java Functional Program with filter              |
+| Step 04 | Using Lambda Expression to enhance your Functional Program |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
