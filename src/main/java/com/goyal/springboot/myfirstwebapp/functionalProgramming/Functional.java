@@ -30,7 +30,7 @@ public class Functional {
 	private static void printEvenNumbersInListFunctional(List<Integer> numbers) {
 
 		numbers.stream()
-			.filter(number -> number%2 == 0)
+			.filter(number -> number%2 == 0) // Lambda Expression
 			.forEach(System.out::println); // Method Reference
 		
 		//.filter(Functional::isEven) // Filter - Only Allow Even Numbers
