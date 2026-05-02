@@ -48,7 +48,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 
 
 ## Functional Programming
-|   Step  |                             Topic                                  |
+|   Step  |                              Topic                                 |
 |---------|--------------------------------------------------------------------|
 | Step 01 | Getting Started with Functional Programming with Java              |
 | Step 02 | Writing Your First Java Functional Program                         |
@@ -56,6 +56,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 04 | Using Lambda Expression to enhance Functional Program              |
 | Step 05 | Functional Programming Exercises with Streams, Filters and Lambdas |
 | Step 06 | Using map in Functional Programs - with Exercises                  |
+| Step 07 | Understanding Optional class in Java                               |
 
 ## Connect
 - LinkedIn: https://linkedin.com/in/-ayush-goyal
