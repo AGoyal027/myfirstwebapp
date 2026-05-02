@@ -45,6 +45,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 27 | Adding Target Date Field to Todo Page                               |
 | Step 28 | Adding a Navigation Bar and Implementing JSP Fragments              |
 | Step 30 | Setting up Spring Security with Spring Boot Starter Security        |
+| Step 31 | Configuring Spring Security with Custom User and Password Encoder   |
 
 
 ## Functional Programming

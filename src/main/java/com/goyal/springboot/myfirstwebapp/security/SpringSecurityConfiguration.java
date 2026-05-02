@@ -1,0 +1,38 @@
+package com.goyal.springboot.myfirstwebapp.security;
+
+import java.util.function.Function;
+
+import org.jspecify.annotations.Nullable;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.core.userdetails.User;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.provisioning.InMemoryUserDetailsManager;
+
+@Configuration
+public class SpringSecurityConfiguration {
+	
+	@Bean
+	public InMemoryUserDetailsManager userDetailsManager() {
+		Function<String, String> passwordEncoder = input -> passwordEncoder().encode(input); // Lambda Function
+		UserDetails userDetails = User.builder()
+									.passwordEncoder(passwordEncoder)		
+									.username("tcs bancs")
+									.password("ChangePwd")
+									.roles("USER","ADMIN")
+									.build();
+		
+		// UserDetails → a user record
+		// InMemoryUserDetailsManager → a phonebook
+		// Here is the user. Store it in memory and return it when someone tries to log in.
+		return new InMemoryUserDetailsManager(userDetails); 
+	}
+	
+	@Bean
+	public PasswordEncoder passwordEncoder() {
+		return new BCryptPasswordEncoder();
+	}
+
+}
