@@ -48,6 +48,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 31 | Configuring Spring Security with Custom User and Password Encoder   |
 | Step 32 | Refactoring and Removing Hardcoding of User Id                      |
 | Step 33 | Setting up a New User for Todo Application                          |
+| Step 34 | Adding Spring Boot Starter Data JPA and Getting H2 database ready   |
 
 
 ## Functional Programming
