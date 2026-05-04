@@ -2,10 +2,15 @@ package com.goyal.springboot.myfirstwebapp.todo;
 
 import java.time.LocalDate;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
 import jakarta.validation.constraints.Size;
 
 // Static list of todos => Database (H2, MySQL)
 
+// JPA
+@Entity // Bean -> Database Table
 public class Todo {
 
 	public Todo(Integer id, String username, String description, LocalDate targetDate, boolean done) {
@@ -17,6 +22,8 @@ public class Todo {
 		this.done = done;
 	}
 
+	@Id
+	@GeneratedValue
 	private Integer id;
 	private String username;
 	

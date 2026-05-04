@@ -15,6 +15,9 @@ by Ranga Karanam (in28minutes) on Udemy.
 - Bootstrap
 - JSP
 - JSTL
+- Spring Security
+- Spring Data JPA
+- H2 Database
  
 ## Course Progress
 |   Step  |                              Topic                                  |
@@ -50,6 +53,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 33 | Setting up a New User for Todo Application                          |
 | Step 34 | Adding Spring Boot Starter Data JPA and Getting H2 database ready   |
 | Step 35 | Configuring Spring Security to Get H2 console Working               |
+| Step 36 | Making Todo an Entity and Population Todo Data into H2              |
 
 
 ## Functional Programming
