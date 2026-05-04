@@ -12,6 +12,10 @@ import jakarta.validation.constraints.Size;
 // JPA
 @Entity // Bean -> Database Table
 public class Todo {
+	
+	public Todo() {
+		
+	}
 
 	public Todo(Integer id, String username, String description, LocalDate targetDate, boolean done) {
 		super();
