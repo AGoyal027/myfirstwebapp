@@ -55,6 +55,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 | Step 35 | Configuring Spring Security to Get H2 console Working                   |
 | Step 36 | Making Todo an Entity and Population Todo Data into H2                  |
 | Step 37 | Creating TodoRepository and Connecting List Todos page from H2 database |
+| Step 38 | 01 - Connecting All Todo App Features to H2 Database                    |
 
 
 ## Functional Programming
