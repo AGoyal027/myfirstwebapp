@@ -17,6 +17,7 @@ by Ranga Karanam (in28minutes) on Udemy.
 - JSTL
 - Spring Security
 - Spring Data JPA
+- Hibernate
 - H2 Database
  
 ## Course Progress
